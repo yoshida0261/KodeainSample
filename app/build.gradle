@@ -34,5 +34,6 @@ dependencies {
     implementation "org.kodein.di:kodein-di-core-jvm:6.0.0"
     implementation "org.kodein.di:kodein-di-generic-jvm:6.0.0"
     implementation "org.kodein.di:kodein-di-framework-android-support:6.0.0"
+    implementation "org.kodein.di:kodein-di-framework-android-x:6.0.0"
 
 }
